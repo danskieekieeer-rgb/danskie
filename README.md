@@ -1,2 +1,2 @@
 # danskie
-Haloo
+website: https://adminss.ct.ws
